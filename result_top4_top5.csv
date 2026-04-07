@@ -1,0 +1,9 @@
+Task,Method,Seed0,Seed42,Seed123,Mean,Std
+MMLU,Top-4 Majority Vote,0.7392,0.7403,0.7435,0.7410,0.0022
+MMLU,Top-5 Majority Vote,0.7281,0.7313,0.7267,0.7287,0.0024
+GSM8K,Top-4 Majority Vote,0.9196,0.9151,0.9174,0.9174,0.0023
+GSM8K,Top-5 Majority Vote,0.9227,0.9143,0.9212,0.9194,0.0044
+
+Summary,,,,,,
+MMLU,Average over Top-4 & Top-5,,,,0.7349,
+GSM8K,Average over Top-4 & Top-5,,,,0.9184,
